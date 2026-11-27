@@ -1,0 +1,36 @@
+# Local game inputs, extracted data, and generated code
+input/
+extracted/
+generated/
+romfs/
+exefs/
+*.nsp
+*.xci
+*.nca
+*.nso
+prod.keys
+title.keys
+
+# Builds, caches, saves, dumps, recordings
+build/
+cache/
+save/
+saves/
+*.sav
+*.rdc
+*.log
+*.pid
+*.status
+*.o
+*.so
+*.a
+
+# Local environment and Python files
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.venv/
+.idea/
+.vscode/
