@@ -1,6 +1,8 @@
 
 <div align="center">
 
+<img src="kraken.png" width="128" alt="Kraken logo">
+
 # Kraken
 
 ### Splatoon 2 · Native recompilation for Linux
